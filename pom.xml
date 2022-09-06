@@ -8,7 +8,7 @@
     <artifactId>mq-jms-test</artifactId>
     <version>1.0</version>
 
-    <name>mq-jms-hcsc</name>
+    <name>mq-jms-test</name>
     <url></url>
 
     <parent>
