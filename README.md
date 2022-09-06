@@ -1,1 +1,1 @@
-# mq-client
+# ibm mq-client
